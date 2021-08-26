@@ -4,7 +4,7 @@
    height="48"
    version="1.1"
    id="svg38"
-   sodipodi:docname="preferences-system-network.svg"
+   sodipodi:docname="cups.svg"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -1742,52 +1742,21 @@
      type="text/css">
 	.st0{fill:#333333;}
 </style>
-  <path
-     style="fill:#ffffff;stroke-width:0.794118"
-     d="m 17.744601,37.085989 -3.17647,-3.176471 h -3.970588 c -1.3198232,0 -2.3823525,-1.062529 -2.3823525,-2.382352 V 12.468344 c 0,-1.319824 1.0625293,-2.382354 2.3823525,-2.382354 h 26.999999 c 1.319823,0 2.382352,1.06253 2.382352,2.382354 v 19.058822 c 0,1.319823 -1.062529,2.382352 -2.382352,2.382352 h -3.970588 l -3.176471,3.176471 z"
-     id="path1255" />
-  <path
-     style="fill:#636a82;stroke-width:0.794118"
-     d="m 20.921071,32.321283 -3.573528,-3.17647 H 12.979896 V 14.850698 h 22.235293 v 14.294115 h -4.764706 l -3.176471,3.17647 z"
-     id="path1257" />
   <g
-     style="fill:#ffffff"
-     transform="matrix(0.79411761,0,0,-0.79411761,5.0387204,4.5271675)"
-     id="g1269">
-    <rect
-       width="2"
-       height="3"
-       x="15"
-       y="-16"
-       id="rect1259"
-       style="fill:#ffffff" />
-    <rect
-       width="2"
-       height="3"
-       x="19"
-       y="-16"
-       id="rect1261"
-       style="fill:#ffffff" />
-    <rect
-       width="2"
-       height="3"
-       x="23"
-       y="-16"
-       id="rect1263"
-       style="fill:#ffffff" />
-    <rect
-       width="2"
-       height="3"
-       x="27"
-       y="-16"
-       id="rect1265"
-       style="fill:#ffffff" />
-    <rect
-       width="2"
-       height="3"
-       x="31"
-       y="-16"
-       id="rect1267"
-       style="fill:#ffffff" />
+     id="g1174"
+     transform="matrix(2.0769231,0,0,2.0769231,7.4821574,8.0090666)"
+     style="fill:#ffffff">
+    <path
+       style="fill:#ffffff"
+       d="M 2,4 C 1.5,4 1,4.5 1,5 v 4 c 0,0.5 0.5,1 1,1 H 3 V 8 h 10 v 2 h 1 c 0.5,0 1,-0.5 1,-1 V 5 C 15,4.5 14.5,4 14,4 Z"
+       id="path1159" />
+    <path
+       style="fill:#ffffff"
+       d="m 4,1 v 2 h 8 V 1 Z"
+       id="path1161" />
+    <path
+       style="fill:#ffffff"
+       d="m 4,9 v 5 h 8 V 9 Z"
+       id="path1163" />
   </g>
 </svg>
