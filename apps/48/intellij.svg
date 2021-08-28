@@ -35,12 +35,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="708"
+     inkscape:window-height="700"
      id="namedview40"
      showgrid="false"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="4.2426407"
-     inkscape:cy="11.844039"
+     inkscape:zoom="8.0000001"
+     inkscape:cx="23.625"
+     inkscape:cy="20.375"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -48,6 +48,15 @@
      inkscape:pagecheckerboard="0" />
   <defs
      id="defs22">
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect28656"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Usar a regra de preenchimento par ou ímpar na caixa de diálogo &lt;b&gt;preenchimento e contorno&lt;/b&gt; se nenhum resultado nivelar após converter o clipe em caminhos." />
     <inkscape:path-effect
        effect="powermask"
        id="path-effect73067"
@@ -1805,10 +1814,6 @@
     <mask
        maskUnits="userSpaceOnUse"
        id="mask-powermask-path-effect73067">
-      <path
-         id="mask-powermask-path-effect73067_box"
-         style="fill:#ffffff;fill-opacity:1"
-         d="M 9.5445852,9.08599 H 38.544585 v 29 H 9.5445852 Z" />
       <g
          id="g73065"
          clip-path="none"
@@ -1843,24 +1848,40 @@
         </g>
       </g>
     </mask>
-    <filter
-       id="mask-powermask-path-effect73067_inverse"
-       inkscape:label="filtermask-powermask-path-effect73067"
-       style="color-interpolation-filters:sRGB"
-       height="100"
-       width="100"
-       x="-50"
-       y="-50">
-      <feColorMatrix
-         id="mask-powermask-path-effect73067_primitive1"
-         values="1"
-         type="saturate"
-         result="fbSourceGraphic" />
-      <feColorMatrix
-         id="mask-powermask-path-effect73067_primitive2"
-         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 "
-         in="fbSourceGraphic" />
-    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28642">
+      <g
+         id="g28654"
+         style="display:none">
+        <g
+           aria-label="IJ"
+           id="g28648"
+           style="font-size:21.3333px;line-height:1.25">
+          <path
+             d="m 12.929953,27.757736 h 9.642651 v -2.645329 h -3.242661 v -8.618653 h 3.242661 v -2.645329 h -9.642651 v 2.645329 h 3.242662 v 8.618653 h -3.242662 z"
+             style="font-weight:bold;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold'"
+             id="path28644" />
+          <path
+             d="m 29.975226,28.013736 c 3.839994,0 5.183992,-2.26133 5.183992,-4.991992 v -9.173319 h -8.575986 v 2.623996 h 5.439991 v 6.293323 c 0,1.919997 -0.725332,2.538663 -2.154663,2.538663 -0.917332,0 -1.855997,-0.533333 -2.645329,-1.535998 l -1.813331,1.94133 c 1.215998,1.706664 3.029329,2.303997 4.565326,2.303997 z"
+             style="font-weight:bold;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold'"
+             id="path28646" />
+        </g>
+        <g
+           aria-label="_"
+           id="g28652"
+           style="font-size:21.3333px;line-height:1.25">
+          <path
+             d="M 12.929953,32.317433 H 23.169937 V 29.97077 H 12.929953 Z"
+             style="font-weight:bold;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold'"
+             id="path28650" />
+        </g>
+      </g>
+      <path
+         id="lpe_path-effect28656"
+         class="powerclip"
+         d="M 5.5445852,5.08599 H 42.544585 v 37 H 5.5445852 Z m 7.3853678,22.671746 h 9.642651 v -2.645329 h -3.242661 v -8.618653 h 3.242661 v -2.645329 h -9.642651 v 2.645329 h 3.242662 v 8.618653 h -3.242662 z m 17.045273,0.256 c 3.839994,0 5.183992,-2.26133 5.183992,-4.991992 v -9.173319 h -8.575986 v 2.623996 h 5.439991 v 6.293323 c 0,1.919997 -0.725332,2.538663 -2.154663,2.538663 -0.917332,0 -1.855997,-0.533333 -2.645329,-1.535998 l -1.813331,1.94133 c 1.215998,1.706664 3.029329,2.303997 4.565326,2.303997 z M 12.929953,32.317433 H 23.169937 V 29.97077 H 12.929953 Z" />
+    </clipPath>
   </defs>
   <style
      id="style4485"
@@ -1883,15 +1904,15 @@
      style="opacity:1;fill:url(#linearGradient1205);fill-opacity:1;stroke:#000000;stroke-width:0.334;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.078125" />
   <path
      style="fill:#ffffff;stroke:none;stroke-width:0.999199"
-     id="rect43646"
+     id="rect43646-3"
      width="27"
      height="27"
      x="10.544585"
      y="10.08599"
      ry="4.9704146"
      sodipodi:type="rect"
-     mask="url(#mask-powermask-path-effect73067)"
-     clip-path="none"
-     inkscape:path-effect="#path-effect73067"
-     d="m 15.515,10.08599 h 17.059171 c 2.753609,0 4.970414,2.216805 4.970414,4.970415 v 17.05917 c 0,2.75361 -2.216805,4.970415 -4.970414,4.970415 H 15.515 c -2.75361,0 -4.970415,-2.216805 -4.970415,-4.970415 v -17.05917 c 0,-2.75361 2.216805,-4.970415 4.970415,-4.970415 z" />
+     mask="none"
+     clip-path="url(#clipPath28642)"
+     d="m 15.515,10.08599 h 17.059171 c 2.753609,0 4.970414,2.216805 4.970414,4.970415 v 17.05917 c 0,2.75361 -2.216805,4.970415 -4.970414,4.970415 H 15.515 c -2.75361,0 -4.970415,-2.216805 -4.970415,-4.970415 v -17.05917 c 0,-2.75361 2.216805,-4.970415 4.970415,-4.970415 z"
+     inkscape:path-effect="#path-effect28656" />
 </svg>
