@@ -2,21 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    version="1.1"
    height="32"
    viewBox="0 0 32 32"
    id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="application-x-zerosize.svg">
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="application-x-zerosize.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -26,20 +26,21 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1055"
+     inkscape:window-width="1366"
+     inkscape:window-height="700"
      id="namedview19"
      showgrid="false"
      inkscape:zoom="14.75"
-     inkscape:cx="10.411394"
-     inkscape:cy="17.874602"
+     inkscape:cx="10.067797"
+     inkscape:cy="17.898305"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="g5713"
      inkscape:object-nodes="true"
      inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true" />
+     inkscape:snap-intersection-paths="true"
+     inkscape:pagecheckerboard="0" />
   <defs
      id="defs5455">
     <inkscape:path-effect
@@ -4357,7 +4358,7 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="matrix(1 0 0 1 -384.57143 -515.798)">
+     transform="translate(-384.57143,-515.798)">
     <g
        transform="matrix(0.25706214,0,0,0.25706214,390.63923,529.52681)"
        id="g4437-3-6">
@@ -4371,91 +4372,97 @@
           <g
              inkscape:label="Capa 1"
              id="g5737"
-             transform="translate(-384.43954,-516.01984)">
+             transform="translate(-384.43954,-516.01984)"
+             style="stroke:#000000;stroke-opacity:0.08">
             <g
                transform="matrix(0.25706214,0,0,0.25706214,390.63923,529.52681)"
-               id="g5739">
+               id="g5739"
+               style="stroke:#000000;stroke-opacity:0.08">
               <g
                  transform="matrix(3.89011,0,0,3.89011,-1520.0669,-2061.7389)"
                  id="g5741"
-                 inkscape:label="Capa 1">
+                 inkscape:label="Capa 1"
+                 style="stroke:#000000;stroke-opacity:0.08">
                 <text
                    xml:space="preserve"
-                   style="font-style:normal;font-weight:normal;font-size:1.69227612px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                   style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.08"
                    x="392.60995"
                    y="538.00714"
-                   id="text5743"
-                   sodipodi:linespacing="125%"><tspan
+                   id="text5743"><tspan
                      sodipodi:role="line"
                      id="tspan5745"
                      x="392.60995"
-                     y="538.00714" /></text>
+                     y="538.00714"
+                     style="font-size:1.69228px;line-height:1.25;stroke:#000000;stroke-opacity:0.08"> </tspan></text>
                 <g
                    transform="translate(0.11241931,0.12922051)"
                    id="g5747"
-                   inkscape:label="Capa 1">
+                   inkscape:label="Capa 1"
+                   style="stroke:#000000;stroke-opacity:0.08">
                   <g
                      id="g5749"
-                     transform="matrix(0.25706214,0,0,0.25706214,390.63923,529.52681)">
+                     transform="matrix(0.25706214,0,0,0.25706214,390.63923,529.52681)"
+                     style="stroke:#000000;stroke-opacity:0.08">
                     <g
                        inkscape:label="Capa 1"
                        id="g5751"
-                       transform="matrix(3.89011,0,0,3.89011,-1520.0669,-2061.7389)">
+                       transform="matrix(3.89011,0,0,3.89011,-1520.0669,-2061.7389)"
+                       style="stroke:#000000;stroke-opacity:0.08">
                       <text
-                         sodipodi:linespacing="125%"
                          id="text5753"
                          y="538.00714"
                          x="392.60995"
-                         style="font-style:normal;font-weight:normal;font-size:1.69227612px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.08"
                          xml:space="preserve"><tspan
                            y="538.00714"
                            x="392.60995"
                            id="tspan5755"
-                           sodipodi:role="line" /></text>
+                           sodipodi:role="line"
+                           style="font-size:1.69228px;line-height:1.25;stroke:#000000;stroke-opacity:0.08"> </tspan></text>
                       <g
-                         style="stroke:#c9c9c9;stroke-opacity:1"
+                         style="stroke:#000000;stroke-opacity:0.08"
                          inkscape:label="Capa 1"
                          id="g5757"
                          transform="translate(0.19948935,0.26253295)">
                         <g
-                           style="stroke:#c9c9c9;stroke-opacity:1"
+                           style="stroke:#000000;stroke-opacity:0.08"
                            transform="matrix(0.25706214,0,0,0.25706214,390.63923,529.52681)"
                            id="g5759">
                           <g
-                             style="stroke:#c9c9c9;stroke-opacity:1"
+                             style="stroke:#000000;stroke-opacity:0.08"
                              transform="matrix(3.89011,0,0,3.89011,-1520.0669,-2061.7389)"
                              id="g5761"
                              inkscape:label="Capa 1">
                             <g
-                               style="stroke:#c9c9c9;stroke-opacity:1"
+                               style="stroke:#000000;stroke-opacity:0.08"
                                transform="translate(0.02535072,0.69032305)"
                                id="g5763"
                                inkscape:label="Capa 1">
                               <g
-                                 style="stroke:#c9c9c9;stroke-opacity:1"
+                                 style="stroke:#000000;stroke-opacity:0.08"
                                  id="g5765"
                                  transform="matrix(0.25706214,0,0,0.25706214,390.63923,529.52681)">
                                 <g
-                                   style="stroke:#c9c9c9;stroke-opacity:1"
+                                   style="stroke:#000000;stroke-opacity:0.08"
                                    inkscape:label="Capa 1"
                                    id="g5767"
                                    transform="matrix(3.89011,0,0,3.89011,-1520.0669,-2061.7389)">
                                 <g
-                                   style="stroke:#c9c9c9;stroke-opacity:1"
+                                   style="stroke:#000000;stroke-opacity:0.08"
                                    inkscape:label="Capa 1"
                                    id="g5769"
                                    transform="translate(0.01300294,0.56286094)">
                                 <g
-                                   style="stroke:#c9c9c9;stroke-opacity:1"
+                                   style="stroke:#000000;stroke-opacity:0.08"
                                    transform="matrix(0.25706214,0,0,0.25706214,390.63923,529.52681)"
                                    id="g5771">
                                 <g
-                                   style="stroke:#c9c9c9;stroke-opacity:1"
+                                   style="stroke:#000000;stroke-opacity:0.08"
                                    transform="matrix(3.89011,0,0,3.89011,-1520.0669,-2061.7389)"
                                    id="g5773"
                                    inkscape:label="Capa 1">
                                 <rect
-                                   style="opacity:1;fill:#ededed;fill-opacity:1;stroke:#cbcfd3;stroke-width:0.303;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                                   style="opacity:1;fill:#ededed;fill-opacity:1;stroke:#000000;stroke-width:0.303;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.08"
                                    id="rect5775"
                                    width="25.764034"
                                    height="25.764034"
