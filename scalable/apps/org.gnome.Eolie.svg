@@ -5,7 +5,7 @@
    version="1.1"
    id="svg38"
    sodipodi:docname="org.gnome.Eolie.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -35,12 +35,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="700"
+     inkscape:window-height="699"
      id="namedview40"
      showgrid="false"
-     inkscape:zoom="1.2291666"
-     inkscape:cx="56.135596"
-     inkscape:cy="34.983053"
+     inkscape:zoom="2.4583332"
+     inkscape:cx="7.1186445"
+     inkscape:cy="27.254239"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1724,84 +1724,70 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssssss" />
   <g
-     id="g1287"
-     transform="matrix(0.08181843,0,0,0.08181843,10.5,10.5)"
-     style="fill:#ffffff">
-    <g
-       id="XMLID_525_"
-       style="fill:#ffffff">
-	<path
-   id="XMLID_526_"
-   d="m 320.96,151.235 -60.002,-25.981 24.057,-60.801 c 2.2,-5.56 0.887,-11.896 -3.342,-16.125 -4.229,-4.229 -10.565,-5.542 -16.125,-3.341 L 204.746,69.043 178.766,9.04 C 176.39,3.552 170.98,0 165.001,0 159.021,0 153.612,3.552 151.236,9.04 L 125.254,69.043 64.452,44.986 c -5.559,-2.2 -11.896,-0.887 -16.125,3.341 -4.229,4.229 -5.542,10.565 -3.341,16.125 l 24.057,60.8 L 9.04,151.235 C 3.552,153.611 0,159.02 0,165 c 0,5.98 3.552,11.389 9.04,13.765 l 60.003,25.982 -24.057,60.8 c -2.2,5.561 -0.887,11.896 3.341,16.125 2.867,2.868 6.703,4.394 10.609,4.394 1.854,0 3.726,-0.344 5.516,-1.053 l 60.801,-24.057 25.982,60.003 c 2.376,5.488 7.785,9.04 13.765,9.04 5.98,0 11.389,-3.552 13.765,-9.04 l 25.98,-60.003 60.802,24.057 c 1.79,0.708 3.66,1.053 5.516,1.053 3.906,0 7.742,-1.527 10.609,-4.394 4.228,-4.229 5.542,-10.564 3.342,-16.125 l -24.058,-60.8 60.003,-25.981 c 5.488,-2.376 9.04,-7.785 9.04,-13.765 0,-5.98 -3.551,-11.39 -9.039,-13.766 z m -76.586,-65.608 -10.96,27.701 -11.684,-5.059 -5.059,-11.682 z m -131.048,10.959 -5.059,11.682 -11.681,5.058 -10.959,-27.699 z m -27.699,147.787 10.959,-27.699 11.682,5.058 5.059,11.682 z m 131.046,-10.96 5.058,-11.681 11.683,-5.059 10.96,27.7 z M 204.364,196.56 c -3.499,1.515 -6.29,4.306 -7.805,7.805 L 165,277.25 133.439,204.364 c -1.515,-3.499 -4.306,-6.29 -7.805,-7.804 L 52.749,165 125.635,133.439 c 3.498,-1.515 6.289,-4.305 7.805,-7.804 L 165,52.75 l 31.56,72.885 c 1.515,3.499 4.306,6.29 7.805,7.805 L 277.25,165 Z"
-   style="fill:#ffffff" />
-
-	<circle
-   id="XMLID_535_"
-   cx="165.00101"
-   cy="165"
-   r="25"
-   style="fill:#ffffff" />
-
-</g>
-    <g
-       id="g1234"
-       style="fill:#ffffff">
-</g>
-    <g
-       id="g1236"
-       style="fill:#ffffff">
-</g>
-    <g
-       id="g1238"
-       style="fill:#ffffff">
-</g>
-    <g
-       id="g1240"
-       style="fill:#ffffff">
-</g>
-    <g
-       id="g1242"
-       style="fill:#ffffff">
-</g>
-    <g
-       id="g1244"
-       style="fill:#ffffff">
-</g>
-    <g
-       id="g1246"
-       style="fill:#ffffff">
-</g>
-    <g
-       id="g1248"
-       style="fill:#ffffff">
-</g>
-    <g
-       id="g1250"
-       style="fill:#ffffff">
-</g>
-    <g
-       id="g1252"
-       style="fill:#ffffff">
-</g>
-    <g
-       id="g1254"
-       style="fill:#ffffff">
-</g>
-    <g
-       id="g1256"
-       style="fill:#ffffff">
-</g>
-    <g
-       id="g1258"
-       style="fill:#ffffff">
-</g>
-    <g
-       id="g1260"
-       style="fill:#ffffff">
-</g>
-    <g
-       id="g1262"
-       style="fill:#ffffff">
-</g>
+     id="g2220"
+     transform="translate(0.264249,2.2930877)">
+    <polygon
+       id="XMLID_1080_"
+       style="fill:#ffffff;fill-opacity:1"
+       points="222.353,137.646 180,180 222.353,222.354 360,180 "
+       transform="matrix(0.075,0,0,0.075,10.235751,8.2069123)" />
+    <polygon
+       id="XMLID_1082_"
+       style="fill:#ffffff;fill-opacity:1"
+       points="137.647,137.648 0,180 137.647,222.352 180,180 "
+       transform="matrix(0.075,0,0,0.075,10.235751,8.2069123)" />
+    <polygon
+       id="XMLID_81_"
+       style="fill:#ffffff;fill-opacity:0"
+       points="180,180 137.647,222.354 0,180 "
+       transform="matrix(0.075,0,0,0.075,10.235751,8.2069123)" />
+    <polygon
+       id="XMLID_1084_"
+       style="fill:#ffffff;fill-opacity:1"
+       points="180,0 137.647,137.648 180,180 222.353,137.648 "
+       transform="matrix(0.075,0,0,0.075,10.235751,8.2069123)" />
+    <polygon
+       id="XMLID_1087_"
+       style="fill:#ffffff;fill-opacity:1"
+       points="180,180 137.647,222.354 180,360 222.353,222.354 "
+       transform="matrix(0.075,0,0,0.075,10.235751,8.2069123)" />
+    <polygon
+       id="XMLID_1090_"
+       style="opacity:0.3;fill:#ffffff;fill-opacity:1"
+       points="180,128.236 70,70 128.236,180 180,180 "
+       transform="matrix(0.075,0,0,0.075,10.235751,8.2069123)" />
+    <polygon
+       id="XMLID_1092_"
+       style="opacity:0.3;fill:#ffffff;fill-opacity:1"
+       points="128.236,180 70,290 180,231.765 180,180 "
+       transform="matrix(0.075,0,0,0.075,10.235751,8.2069123)" />
+    <polygon
+       id="XMLID_1094_"
+       style="opacity:0.3;fill:#ffffff;fill-opacity:1"
+       points="290,290 231.765,180 180,180 180,231.765 "
+       transform="matrix(0.075,0,0,0.075,10.235751,8.2069123)" />
+    <polygon
+       id="XMLID_1096_"
+       style="opacity:0.3;fill:#ffffff;fill-opacity:1"
+       points="180,180 231.765,180 290,70 180,128.236 "
+       transform="matrix(0.075,0,0,0.075,10.235751,8.2069123)" />
+    <circle
+       id="XMLID_1097_"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.075"
+       cx="23.73575"
+       cy="21.706913"
+       r="6.75" />
+    <circle
+       id="XMLID_1101_"
+       style="fill:#1e4bc6;stroke-width:0.075"
+       cx="23.73575"
+       cy="21.706913"
+       r="4.5" />
+    <circle
+       id="XMLID_1102_"
+       style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke-width:0.075"
+       cx="23.73575"
+       cy="21.706913"
+       r="3" />
   </g>
 </svg>

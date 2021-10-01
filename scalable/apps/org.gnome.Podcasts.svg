@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    style="isolation:isolate"
    width="48"
    height="48"
    version="1.1"
    id="svg20"
-   sodipodi:docname="podcasts.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+   sodipodi:docname="org.gnome.Podcasts.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata24">
     <rdf:RDF>
@@ -23,7 +22,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,16 +35,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="703"
+     inkscape:window-height="699"
      id="namedview22"
      showgrid="false"
      inkscape:zoom="10.041667"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:cx="22.655601"
+     inkscape:cy="17.427385"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg20" />
+     inkscape:current-layer="svg20"
+     inkscape:pagecheckerboard="0" />
   <defs
      id="defs14">
     <linearGradient
@@ -89,8 +88,8 @@
          id="stop11" />
     </radialGradient>
     <linearGradient
-       osb:paint="solid"
-       id="linearGradient7212">
+       id="linearGradient7212"
+       inkscape:swatch="solid">
       <stop
          style="stop-color:#000000;stop-opacity:1;"
          offset="0"
@@ -100,10 +99,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1350"
-       x="-1.209082e-06"
-       width="1.0000024"
-       y="-1.1910535e-06"
-       height="1.0000024">
+       x="-0.0040312424"
+       width="1.0080625"
+       y="-0.0039711329"
+       height="1.0079423">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="2.100125e-05"
@@ -113,9 +112,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1354"
-       x="-1.7397317e-06"
+       x="-1.7397316e-06"
        width="1.0000035"
-       y="-2.5305188e-06"
+       y="-2.5305187e-06"
        height="1.0000051">
       <feGaussianBlur
          inkscape:collect="always"
@@ -133,9 +132,10 @@
      stroke-linejoin="bevel"
      stroke-opacity=".078"
      id="path16"
-     style="filter:url(#filter1350)" />
+     style="filter:url(#filter1350);fill:#e83d43" />
   <path
      style="display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.7416;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.437008;filter:url(#filter1354)"
      d="m 11.234377,14.345974 c -1.003145,0 -1.8107319,0.807586 -1.8107319,1.810732 v 16.296586 c 0,1.003145 0.8075869,1.810732 1.8107319,1.810732 h 25.350245 c 1.003145,0 1.810732,-0.807587 1.810732,-1.810732 V 16.156706 c 0,-1.003146 -0.807587,-1.810732 -1.810732,-1.810732 z m 0,5.432195 h 25.350245 v 7.242928 H 11.234377 Z m 5.432195,1.810732 a 1.8107318,1.8107318 0 0 0 -1.810732,1.810732 1.8107318,1.8107318 0 0 0 1.810732,1.810732 1.8107318,1.8107318 0 0 0 1.810732,-1.810732 1.8107318,1.8107318 0 0 0 -1.810732,-1.810732 z m 3.621464,0 v 3.621464 h 7.242927 v -3.621464 z m 10.864391,0 a 1.8107318,1.8107318 0 0 0 -1.810732,1.810732 1.8107318,1.8107318 0 0 0 1.810732,1.810732 1.8107318,1.8107318 0 0 0 1.810731,-1.810732 1.8107318,1.8107318 0 0 0 -1.810731,-1.810732 z m -12.675123,7.242927 h 10.864391 l 1.810732,3.621464 H 16.666572 Z"
-     id="rect2029" />
+     id="rect2029"
+     transform="matrix(0.93194042,0,0,0.93194042,1.7177712,1.3491884)" />
 </svg>
