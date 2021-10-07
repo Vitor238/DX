@@ -35,14 +35,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-height="699"
      id="namedview40"
      showgrid="false"
      inkscape:zoom="4.9166668"
-     inkscape:cx="31.220338"
+     inkscape:cx="-16.271186"
      inkscape:cy="25.932203"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg38"
      inkscape:document-rotation="0"
@@ -1837,22 +1837,14 @@
        fill="#241f31"
        id="path35"
        style="fill:#f01446;stroke-width:0.300707" />
-    <g
-       clip-path="url(#e-94)"
-       mask="url(#d-7)"
-       transform="matrix(0.3007071,0,0,0.3007071,3.2618133,-2.3552962)"
-       id="g41"
-       style="opacity:1;stroke:#ffffff">
-      <path
-         d="m 19,221 v -10 h 10 m 80.01563,10 V 211 H 99.015625 m 10.000005,52.01562 v 10 H 99.015625 M 19,263.01562 v 10 h 10"
-         fill="none"
-         stroke="#ffffff"
-         stroke-linecap="round"
-         stroke-width="2"
-         transform="translate(8,-156)"
-         id="path39"
-         style="stroke:#ffffff" />
-    </g>
+    <path
+       d="m 11.380905,17.190665 v -3.007071 h 3.007071 m 24.061268,3.007071 v -3.007071 h -3.007072 m 3.007072,15.641466 v 3.007071 H 35.442172 M 11.380905,29.82506 v 3.007071 h 3.007071"
+       fill="none"
+       stroke="#ffffff"
+       stroke-linecap="round"
+       stroke-width="0.601414"
+       id="path39"
+       style="stroke:#ffffff" />
     <g
        fill="#ffffff"
        id="g47"
