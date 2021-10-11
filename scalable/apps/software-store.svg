@@ -35,12 +35,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="708"
+     inkscape:window-height="699"
      id="namedview40"
      showgrid="false"
-     inkscape:zoom="6.9532165"
-     inkscape:cx="13.80656"
-     inkscape:cy="23.154751"
+     inkscape:zoom="13.906433"
+     inkscape:cx="18.624474"
+     inkscape:cy="22.112069"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1776,13 +1776,13 @@
      id="path4147"
      inkscape:connector-curvature="0" />
   <path
-     style="opacity:1;fill:#e53d35;fill-opacity:1;stroke:#000000;stroke-width:0.3341803;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.078125"
-     d="m 19.046357,2.9645209 8.495066,0 c 13.907739,0 16.804384,11.2468651 16.804384,17.2820841 l 0,7.123176 c 0,5.959564 -2.704172,17.282082 -17.836524,17.282082 l -6.930103,0 c -11.5625118,0 -17.145935,-7.707808 -17.145935,-17.282082 l 0,-7.123176 c 0,-9.574274 5.4701791,-17.2820841 16.613112,-17.2820841 z"
+     style="opacity:1;fill:#e53d35;fill-opacity:1;stroke:#000000;stroke-width:0.33418;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.078125"
+     d="m 19.656831,3.1563289 h 8.495066 c 13.907739,0 16.804384,11.2468651 16.804384,17.2820841 v 7.123176 c 0,5.959564 -2.704172,17.282082 -17.836524,17.282082 h -6.930103 c -11.5625118,0 -17.145935,-7.707808 -17.145935,-17.282082 v -7.123176 c 0,-9.574274 5.4701791,-17.2820841 16.613112,-17.2820841 z"
      id="rect4144"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssssssss" />
   <path
-     style="fill:#ffffff;stroke-width:2.07692"
-     d="m 19.23568,10.308192 -2.076922,2.076923 v 2.076923 H 8.8510651 v 19.730769 c 0,3.115385 3.1153849,3.115385 3.1153849,3.115385 h 22.846153 c 0,0 3.115384,0 3.115384,-3.115385 V 14.462038 h -8.307691 v -2.076923 l -2.076924,-2.076923 z m 0,2.076923 h 8.307692 v 2.076923 H 19.23568 Z"
+     style="fill:#ffffff;stroke-width:1.92857"
+     d="m 20.142857,11.464285 -1.92857,1.928571 v 1.928572 H 10.5 v 18.321429 c 0,2.892858 2.892858,2.892858 2.892858,2.892858 h 21.214285 c 0,0 2.892857,0 2.892857,-2.892858 V 15.321428 h -7.714285 v -1.928572 l -1.928572,-1.928571 z m 0,1.928571 h 7.714286 v 1.928572 h -7.714286 z"
      id="path1164" />
 </svg>
