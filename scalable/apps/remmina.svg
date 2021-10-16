@@ -35,12 +35,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="700"
+     inkscape:window-height="699"
      id="namedview40"
      showgrid="false"
-     inkscape:zoom="3.4766083"
-     inkscape:cx="-13.80656"
-     inkscape:cy="26.462573"
+     inkscape:zoom="6.9532166"
+     inkscape:cx="34.660218"
+     inkscape:cy="23.730024"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -49,6 +49,18 @@
      inkscape:pagecheckerboard="0" />
   <defs
      id="defs22">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1303">
+      <stop
+         style="stop-color:#0091ea;stop-opacity:1;"
+         offset="0"
+         id="stop1299" />
+      <stop
+         style="stop-color:#15b76d;stop-opacity:1"
+         offset="1"
+         id="stop1301" />
+    </linearGradient>
     <linearGradient
        id="linearGradient4488">
       <stop
@@ -1748,6 +1760,15 @@
          offset="1"
          id="stop869" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1303"
+       id="linearGradient1305"
+       x1="7.5046258"
+       y1="6.4575648"
+       x2="44.636284"
+       y2="45.163235"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <style
      id="style4485"
@@ -1767,7 +1788,7 @@
      inkscape:connector-curvature="0"
      id="path4518"
      d="m 19.362981,2.7423187 8.49507,0 c 13.90775,0 16.8044,11.2468653 16.8044,17.2820843 l 0,7.123176 c 0,5.959564 -2.70417,17.282082 -17.83654,17.282082 l -6.9301,0 c -11.5625102,0 -17.1459403,-7.707808 -17.1459403,-17.282082 l 0,-7.123176 c 0,-9.574274 5.4701801,-17.2820843 16.6131103,-17.2820843 z"
-     style="opacity:1;fill:#0091ea;fill-opacity:1;stroke:#000000;stroke-width:0.3341803;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.078125" />
+     style="opacity:1;fill:url(#linearGradient1305);fill-opacity:1;stroke:#000000;stroke-width:0.3341803;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.078125" />
   <g
      id="layer9"
      inkscape:label="apps"
